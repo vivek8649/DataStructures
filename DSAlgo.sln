@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSAlgo", "DSAlgo\DSAlgo.csproj", "{5F669E5E-1834-46B5-8474-ED5B93204243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F669E5E-1834-46B5-8474-ED5B93204243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F669E5E-1834-46B5-8474-ED5B93204243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F669E5E-1834-46B5-8474-ED5B93204243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F669E5E-1834-46B5-8474-ED5B93204243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16760C7D-53FB-4437-8E7A-630D681B41BF}
+	EndGlobalSection
+EndGlobal
